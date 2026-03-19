@@ -1,4 +1,4 @@
-🌾 QMLHEP GSoC 2026 – Quantum Machine Learning + Agriculture System
+🌾 Quantum Machine Learning + Agriculture System
 
 📌 Overview
 
@@ -15,7 +15,7 @@ The work combines:
 
 🧠 Project Idea
 
-Beyond completing the tasks, I developed a system where:
+  I developed a system where:
 
 - Each farm = node
 - Each node contains crop + environmental data
