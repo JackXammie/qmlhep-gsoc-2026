@@ -68,8 +68,8 @@ README.md
 
 🚀 Getting Started
 
-git clone https://github.com/JackXammie/qmlhep-gsoc-2026.git
-cd qmlhep-gsoc-2026
+git clone https://github.com/JackXammie/agric-qml.git
+cd agric-qml
 
 python3 -m venv tfq-env
 source tfq-env/bin/activate
